@@ -1,0 +1,16 @@
+body{
+  padding: 25px;
+  text-align: center;
+  justify-content: center;
+  /*display: flex;*/
+}
+.title {
+	color: #5C6AC4;
+}
+div{
+  height: 200px;
+  width: 500px;
+  border: 1px solid black;
+  
+  margin: auto;
+}
